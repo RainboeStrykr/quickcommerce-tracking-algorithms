@@ -53,8 +53,6 @@ Each slide contains a **live, animated 3D Canvas visualisation** rendered entire
 
 ## Live 3D Visualisations
 
-Six custom animated visualisations, one per relevant slide, all written with vanilla Canvas 2D:
-
 | Component | Slide | What it shows |
 |---|---|---|
 | `Graph3D` | 3 | Weighted road graph G(V,E,W) — rotating nodes, edges, weight labels |
@@ -165,9 +163,3 @@ rider-tracking-presentation/
 | Dijkstra on 500K nodes (binary heap) | 10–50 ms |
 | API p99 response time requirement | < 100 ms |
 | Orders delivered within 15 min | > 90% |
-
----
-
-## Context
-
-Submitted as a seminar presentation for the **Design & Analysis of Algorithms** course, demonstrating how classical graph algorithms translate into production systems at the scale of India's quick commerce industry.
