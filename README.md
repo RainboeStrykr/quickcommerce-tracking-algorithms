@@ -4,16 +4,6 @@
 
 ---
 
-## Authors
-
-| Name | Roll Number |
-|---|---|
-| Harsh Dubey | RA2411033010002 |
-| Mridula Manoj | RA2411033010012 |
-| Abhiraj Bhowmick | RA2411033010013 |
-
----
-
 ## About
 
 This is an interactive web-based presentation (10 slides) built with React + Vite. It covers the full algorithmic stack behind real-time rider tracking in quick commerce — from weighted graph modelling of road networks all the way to production-scale optimisations used by Blinkit and Zepto.
@@ -163,3 +153,7 @@ rider-tracking-presentation/
 | Dijkstra on 500K nodes (binary heap) | 10–50 ms |
 | API p99 response time requirement | < 100 ms |
 | Orders delivered within 15 min | > 90% |
+
+---
+
+*Created by Abhiraj Bhowmick*
